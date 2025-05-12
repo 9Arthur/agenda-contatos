@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda de Contatos</string>
+    <string name="btCadastrar">Cadastrar</string>
+    <string name="btcadastrar">Cadastrar</string>
+    <string name="nome">Nome</string>
+    <string name="todo">TODO</string>
+    <string name="atualizar">Atualizar</string>
+</resources>
